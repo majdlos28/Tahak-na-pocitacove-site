@@ -1,1 +1,1 @@
-# Tahak-na-pocitacove-site
+## V tomto repositáři je tahák na počítačové sítě.
